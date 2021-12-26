@@ -1,0 +1,7 @@
+export const GET_ALL_CONTACTS = '[Contact] Get all contacts'
+export const GET_CONTACT_BY_ID = '[Contact] Get contact by id'
+export const CONTACTS_ERROR = '[Contact] Contacts error'
+export const REMOVE_CONTACT = '[Contact] Remove contact'
+export const REMOVE_ALL_CONTACT = '[Contact] Remove all contact'
+export const EDIT_CONTACT = '[Contact] Edit contact'
+export const ADD_CONTACT = '[Contact] Add contact'
