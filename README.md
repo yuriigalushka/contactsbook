@@ -1,4 +1,5 @@
-If you can't to install all dependencies try this
+If you can't to install all dependencies try this	
+
   npm install --legacy-peer-deps
 # Getting Started with Create React App
 
