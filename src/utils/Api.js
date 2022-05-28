@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const client = axios.create({
-	baseURL: 'https://contacts-telran.herokuapp.com'
+	baseURL: ''
 })
 
 export default class Api {
